@@ -1,13 +1,9 @@
-[后台安装](./admin.install.md) | [前端安装](./mobile.install.md)
+[后台安装](./admin.install.md) | [移动端安装](./mobile.install.md)
 
 <h1 align="center">迅蜂商城-积分商城</h1>
 
 <div align="center">
-
-[![License](https://img.shields.io/npm/l/package.json.svg?style=flat)](https://github.com/vueComponent/ant-design-vue-pro/blob/master/LICENSE)
-[![Release](https://img.shields.io/github/release/vueComponent/ant-design-vue-pro.svg?style=flat)](https://github.com/vueComponent/ant-design-vue-pro/releases/latest)
-[![Travis branch](https://travis-ci.org/vueComponent/ant-design-vue-pro.svg?branch=master)](https://travis-ci.org/vueComponent/ant-design-vue-pro)
-
+    &nbsp;
 </div>
 
 

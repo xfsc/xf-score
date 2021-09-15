@@ -1,7 +1,7 @@
 ### 环境
 
 - node `12.6.0`
-- vue `4.5.13`
+- vue `4.5.13` 安装命令 `npm install -g @vue/cli`
 
 
 

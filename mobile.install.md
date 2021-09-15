@@ -1,7 +1,7 @@
 ### 环境
 
 - node `12.6.0`
-- taro `2.2.13`
+- taro `2.2.13` 安装命令 `npm install -g @tarojs/cli@2.2.13`
 
 
 
