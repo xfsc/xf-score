@@ -14,7 +14,7 @@
 - 安装: [admin.install.md](./mobile.install.md)
 - 更新日志: [admin.changelog.md](./admin.changelog.md)
 
-![dashboard](static/admin/preview.png)
+![dashboard](https://xf-demo.oss-cn-chengdu.aliyuncs.com/xf-score/admin/preview.png)
 
 
 
@@ -24,6 +24,6 @@
 - 安装: [mobile.install.md](./mobile.install.md)
 - 更新日志: [mobile.changelog.md](./mobile.changelog.md)
 
-![dashboard](static/mobile/preview.jpg)
+![dashboard](https://xf-demo.oss-cn-chengdu.aliyuncs.com/xf-score/mobile/preview.jpg)
 
 
